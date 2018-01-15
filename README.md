@@ -1,0 +1,2 @@
+# xchat-highlight-window
+window
